@@ -1,0 +1,1 @@
+read(great) write(something)
